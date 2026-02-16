@@ -1,0 +1,21 @@
+journey_path,num_customers,total_revenue,avg_revenue
+Paid_Search → Facebook_Ads → Email,8,22849.12,2856.14
+Paid_Search → Paid_Search → Email,8,18242.44,2280.31
+Paid_Search → Paid_Search → Direct,8,15500.16,1937.52
+Paid_Search → Instagram_Ads → Direct,7,17106.75,2443.82
+Paid_Search → Organic_Search → Direct,7,16896.99,2413.86
+Paid_Search → Facebook_Ads → Paid_Search,7,17398.15,2485.45
+Organic_Search → Email → Email,6,13084.33,2180.72
+Facebook_Ads → Paid_Search → Email,6,15140.11,2523.35
+Paid_Search → Instagram_Ads → Organic_Search,6,18057.38,3009.56
+Instagram_Ads → Facebook_Ads → Paid_Search,6,14127.66,2354.61
+Paid_Search → Email → Email → Email,6,15283.26,2547.21
+Paid_Search → Email → Email,5,15021.37,3004.27
+Instagram_Ads → Email → Email,5,11827.29,2365.46
+Paid_Search → Paid_Search → Paid_Search,5,11585.89,2317.18
+Facebook_Ads → Organic_Search → Email,5,13415.03,2683.01
+Facebook_Ads → Organic_Search → Paid_Search,5,12300.99,2460.2
+Paid_Search → Email → Paid_Search,5,13589.65,2717.93
+Facebook_Ads → Paid_Search → Paid_Search,5,15094.04,3018.81
+Instagram_Ads → Paid_Search → Email,5,10605.6,2121.12
+Facebook_Ads → Instagram_Ads → Facebook_Ads → Direct,4,12453.91,3113.48

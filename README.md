@@ -58,7 +58,7 @@ Built comprehensive attribution framework comparing 6 models, with **Markov Chai
 
 ## 📊 Dashboard Preview
    
-   ![Executive Overview](C:\Users\mohsi\OneDrive\Pictures\Screenshots\Screenshot 2026-02-15 183714.png)
+   ![Executive Overview](https://github.com/MohsinR11/marketing-attribution-roas-optimization/blob/main/Dashboard%20Screenshots/Screenshot%202026-02-15%20183714.png)
    ![Attribution Analysis](https://github.com/MohsinR11/marketing-attribution-roas-optimization/blob/main/Dashboard%20Screenshots/Screenshot%202026-02-15%20183730.png)
    ![Executive Overview](https://github.com/MohsinR11/marketing-attribution-roas-optimization/blob/main/Dashboard%20Screenshots/Screenshot%202026-02-15%20183745.png)
    ![Attribution Analysis](https://github.com/MohsinR11/marketing-attribution-roas-optimization/blob/main/Dashboard%20Screenshots/Screenshot%202026-02-15%20183800.png)

@@ -1,6 +1,6 @@
 # Marketing Attribution & ROAS Optimization Dashboard
 
-![Dashboard Preview](screenshots/executive-overview.png)
+![Dashboard Preview](https://github.com/MohsinR11/marketing-attribution-roas-optimization/blob/main/Dashboard%20Screenshots/Screenshot%202026-02-15%20183714.png)
 
 ## 📊 Project Overview
 

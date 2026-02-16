@@ -56,6 +56,13 @@ Built comprehensive attribution framework comparing 6 models, with **Markov Chai
 3. **Channel Performance** - Deep dive metrics
 4. **Budget Optimization** - Reallocation recommendations
 
+## 📊 Dashboard Preview
+   
+   ![Executive Overview](screenshots/executive-overview.png)
+   ![Attribution Analysis](screenshots/attribution-analysis.png)
+   ![Executive Overview](screenshots/executive-overview.png)
+   ![Attribution Analysis](screenshots/attribution-analysis.png)
+
 ## 🎓 Skills Demonstrated
 
 - Advanced SQL (PostgreSQL)
